@@ -1,0 +1,11 @@
+.App {
+  font-family: Segoe UI;
+  margin: 5%;
+}
+
+.App-title {
+  font-family: Impact, fantasy;
+  text-align: left;
+  font-size: 42px;
+  font-weight: bold;
+}
